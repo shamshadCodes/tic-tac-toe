@@ -1,2 +1,3 @@
-# Tic Tac Toe Game created with React
-## Also has the ability to time travel and reset game.
+# Tic Tac Toe Game
+
+Created with React, this app also has the ability to time travel and reset game.
